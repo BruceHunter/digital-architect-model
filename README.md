@@ -23,7 +23,7 @@ Where:
 As long as the economic expansion from cheaper software ($\alpha$) is massive enough to outpace the efficiency gains, **net jobs will rise.**
 
 ## Read the Paper
-📄 **[The System Realignment: AI, Capital Recycling, and the Rise of the Digital Architect](PAPER.md)**
+📄 **[The System Realignment: AI, Capital Recycling, and the Rise of the Digital Architect](the-system-realignment.md)**
 
 ## Contributing
 This is an open-source framework published under the CC0 license. Economists, senior engineers, and industry leaders are encouraged to fork this repository, challenge the variables, and submit pull requests to refine the macro-economic model.
