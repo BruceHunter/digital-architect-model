@@ -6,7 +6,7 @@ The prevailing industry narrative suggests that the advent of generative AI will
 
 The current market dynamic—characterized by tech layoffs—is not a systemic downsizing. It is a **Skills Realignment Cycle**. Capital is being recycled from low-leverage legacy talent to acquire high-leverage, AI-augmented "Digital Architects." 
 
-Driven by **Jevons' Paradox**, the drastic reduction in the marginal cost of code generation is exponentially escalating the systemic demand for software creation, ultimately resulting in a net-positive expansion of the engineering labor market.
+Driven by **Jevons' Paradox** and the **Price Elasticity of Demand**, the drastic reduction in the marginal cost of code generation is exponentially escalating the systemic demand for software creation, ultimately resulting in a net-positive expansion of the engineering labor market.
 
 ## The Core Theorem
 
@@ -20,7 +20,12 @@ Where:
 * **$\mu$**: The AI Productivity Multiplier (e.g., $\mu = 5$ means 1 AI architect outputs the work of 5 legacy engineers).
 * **$\alpha$**: The Jevons Expansion Coefficient (new demand unlocked by cheaper production costs).
 
-As long as the economic expansion from cheaper software ($\alpha$) is massive enough to outpace the efficiency gains, **net jobs will rise.**
+### The Growth Threshold
+For the industry to see a net-positive job expansion ($J_{1} > J_{0}$), the market expansion must outpace the efficiency gains mathematically. This yields the critical **Growth Threshold Inequality**:
+
+$$\alpha > \frac{L}{J_{0}} (\mu - 1)$$
+
+As long as enterprise software demand stretches faster than the workforce attrition rate multiplied by the net efficiency gain, **total jobs will rise.**
 
 ## Read the Paper
 📄 **[The System Realignment: AI, Capital Recycling, and the Rise of the Digital Architect](the-system-realignment.md)**
